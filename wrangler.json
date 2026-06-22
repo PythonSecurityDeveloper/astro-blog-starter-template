@@ -2,9 +2,9 @@
 	"name": "astro-blog-starter-template",
 	"compatibility_date": "2025-10-08",
 	"compatibility_flags": ["nodejs_compat"],
-	"main": "./dist/_worker.js/index.js",
+	"main": "./functions/api/reveal.js",
 	"assets": {
-		"directory": "./dist",
+		"directory": "./main",
 		"binding": "ASSETS"
 	},
 	"observability": {
